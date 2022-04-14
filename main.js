@@ -16,3 +16,4 @@ classifier=ml5.imageClassifier('https://teachablemachine.withgoogle.com/models/2
     
 function modelLoaded(){
 console.log("modelLoaded");
+}
